@@ -7,9 +7,9 @@ Repository: https://github.com/alphyoung/alphyoung.github.io
 | Europe | https://alphyoung.github.io/understanding/europe/ | understanding/europe/ |
 | London | https://alphyoung.github.io/understanding/london/ | understanding/london/ |
 
-Both books are static HTML published together by GitHub Pages from main, repository root. No separate Pages setup is needed for London. Preserve the root .nojekyll file.
+Both books are static HTML published together by GitHub Pages from the main branch and repository root. Europe also keeps its authoritative Markdown in `understanding/europe/markdown/` for GitBook Git Sync. No separate Pages setup is needed for London. Preserve the root `.nojekyll` file.
 
-Europe contains nine chapters plus an index alias. London contains a home page, eight chapters, an appendix and a standalone 404 page. London's local images, stylesheet and progress script are under assets/; its Markdown edition is under markdown/.
+Europe contains nine chapters plus an index alias. Edit Europe content in `understanding/europe/markdown/`, then update the published HTML; see `tools/europe/README.md`. London contains a home page, eight chapters, an appendix and a standalone 404 page. London's local images, stylesheet and progress script are under assets/; its Markdown edition is under markdown/.
 
 ## Update procedure
 
