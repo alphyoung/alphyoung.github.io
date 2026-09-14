@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Understanding Europe
+  structure:
+    - type: space
+      key: europe-en
+      title: Europe_EN
+      path: untitled
+      default: true
+      content:
+        directory: ./
+        language: en
