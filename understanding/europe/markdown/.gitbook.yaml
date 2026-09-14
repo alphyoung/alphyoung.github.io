@@ -1,0 +1,4 @@
+root: ./
+structure:
+  readme: 00-understanding-europe.md
+  summary: SUMMARY.md
