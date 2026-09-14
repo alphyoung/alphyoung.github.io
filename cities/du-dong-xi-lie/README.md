@@ -1,0 +1,16 @@
+---
+description: 城市、历史、文化与技术的读懂系列总目录。
+---
+
+# 读懂系列
+
+从山河、历史、文化与技术出发，读懂我们所在的世界。选择一本，开始阅读。
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>读懂朝阳</strong></td><td>沿大凌河，从红山文化、三燕龙城读到古城佛塔。</td><td><a href="https://tour-1.gitbook.io/understanding/chaoyang/">https://tour-1.gitbook.io/understanding/chaoyang/</a></td></tr><tr><td><strong>读懂朝阳历史</strong></td><td>七个历史阶段，沿大凌河谷梳理地方治理与历史变迁。</td><td><a href="https://tour-1.gitbook.io/understanding/chaoyang-history/">https://tour-1.gitbook.io/understanding/chaoyang-history/</a></td></tr><tr><td><strong>读懂青城</strong></td><td>从云中、盛乐到归化、绥远，读懂青城的地域与双城往事。</td><td><a href="https://tour-1.gitbook.io/understanding/hohhot/">https://tour-1.gitbook.io/understanding/hohhot/</a></td></tr><tr><td><strong>读懂凉城</strong></td><td>湖盆、山口与边墙：从岱海地域往事读到现代凉城。</td><td><a href="https://tour-1.gitbook.io/understanding/liangcheng/">https://tour-1.gitbook.io/understanding/liangcheng/</a></td></tr><tr><td><strong>读懂拉萨</strong></td><td>从吐蕃逻些到寺院与街巷，读懂拉萨的历史与人物。</td><td><a href="https://tour-1.gitbook.io/understanding/lhasa/">https://tour-1.gitbook.io/understanding/lhasa/</a></td></tr><tr><td><strong>读懂伦敦</strong></td><td>沿泰晤士河，读懂王权、商业与现代伦敦。</td><td><a href="https://tour-1.gitbook.io/understanding/london/">https://tour-1.gitbook.io/understanding/london/</a></td></tr><tr><td><strong>读懂德国</strong></td><td>王朝、信仰与疆域：以五个历史阶段认识德国。</td><td><a href="https://tour-1.gitbook.io/understanding/germany/">https://tour-1.gitbook.io/understanding/germany/</a></td></tr><tr><td><strong>读懂欧洲</strong></td><td>古典、信仰与权力：从希腊罗马走向现代欧洲。</td><td><a href="https://tour-1.gitbook.io/understanding/europe/">https://tour-1.gitbook.io/understanding/europe/</a></td></tr><tr><td><strong>Understanding Europe</strong></td><td>Classical, faith and power — six stages of European history.</td><td><a href="https://tour-1.gitbook.io/understanding/understanding-europe/">https://tour-1.gitbook.io/understanding/understanding-europe/</a></td></tr><tr><td><strong>读懂藏传佛教</strong></td><td>高原、教派与册封：梳理藏传佛教的历史发展。</td><td><a href="https://tour-1.gitbook.io/understanding/zangchuanfojiao/">https://tour-1.gitbook.io/understanding/zangchuanfojiao/</a></td></tr><tr><td><strong>读懂AI</strong></td><td>从符号主义到智能体，梳理人工智能的技术演进。</td><td><a href="https://tour-1.gitbook.io/understanding/ai-history/">https://tour-1.gitbook.io/understanding/ai-history/</a></td></tr></tbody></table>
+
+## 支持读懂系列
+
+{% hint style="info" %}
+| <p>支持读懂系列</p><p>如⁠果⁠觉⁠得⁠本⁠文⁠有⁠帮⁠助，⁠可⁠赞⁠助 1 元</p><p>感谢你支持城市历史的整理与写作。</p> | ![读懂系列赞助二维码](https://2479610201-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLkCAivWssRzM8SOGwh8p%2Fuploads%2FDAPD991HczeeXpD4eCip%2Fsponsor-padded.png?alt=media) |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+{% endhint %}
