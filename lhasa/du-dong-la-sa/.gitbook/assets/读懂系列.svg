@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76" role="img" aria-labelledby="title desc">
+  <title id="title">读懂系列</title>
+  <desc id="desc">城市的来路，人的故事</desc>
+  <g fill="none" stroke="#72AAFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 18.5c10-3 18-1 23 4v31c-5-5-13-7-23-4z"/>
+    <path d="M52 18.5c-10-3-18-1-23 4v31c5-5 13-7 23-4z"/>
+    <path d="M29 22.5v31"/>
+  </g>
+  <text x="69" y="34" fill="#F1F5FC" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700">读懂系列</text>
+  <text x="69" y="61" fill="#84A9DC" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="15">城市的来路，人的故事</text>
+</svg>

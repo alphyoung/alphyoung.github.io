@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44" role="img" aria-labelledby="title">
+  <title id="title">读懂系列</title>
+  <g fill="none" stroke="#72AAFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 8c8-2.5 15-1 19 3v26c-4-4-11-5.5-19-3z"/>
+    <path d="M42 8c-8-2.5-15-1-19 3v26c4-4 11-5.5 19-3z"/>
+    <path d="M23 11v26"/>
+  </g>
+  <text x="57" y="34" fill="#F1F5FC" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="30" font-weight="700">读懂系列</text>
+</svg>
