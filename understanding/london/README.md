@@ -53,39 +53,23 @@ No build step, no dependencies, no external CSS/JS. Open `index.html` and it wor
 
 无需构建、无依赖、不外链 CDN，直接打开 `index.html` 即可阅读。
 
-## Deploy to GitHub Pages / 部署
+## Publication / 发布与维护
 
-**A. Publish as a project site** (`https://<user>.github.io/<repo>/`)
+Live site: https://alphyoung.github.io/understanding/london/
 
-```bash
-# inside this folder
-git init
-git add .
-git commit -m "Understanding London — English edition"
-git branch -M main
-git remote add origin https://github.com/<user>/<repo>.git
-git push -u origin main
-```
+This book shares the alphyoung/alphyoung.github.io repository and main-branch Pages deployment with Europe. Maintain files in understanding/london/. No separate repository or Pages configuration is required.
 
-Then on GitHub: **Settings → Pages → Source: Deploy from a branch → Branch: `main` / `(root)` → Save.**
+与 Europe 共用同一仓库及 GitHub Pages 发布流程，正式维护目录为 understanding/london/。
 
-**B. Publish as a user site** (`https://<user>.github.io/`)
+See the repository README for the shared update and verification procedure. Keep the HTML and Markdown editions in sync when editing text. Preserve chapter navigation, image credits and sponsorship assets.
 
-Create a repository named `<user>.github.io` and push these files to its root.
-No path changes are needed — every link in the site is relative.
-
-**Local preview / 本地预览**
-
-```bash
-python -m http.server 8000      # then open http://localhost:8000
-```
+The nested 404.html is a standalone page; GitHub Pages does not automatically use it as this folder's error handler.
 
 ## Markdown edition / Markdown 版
 
 `markdown/` holds the identical English text as Markdown, split one file per page, with front
 matter. Useful if you want to re-import it into GitBook or another documentation platform.
-Image references in `markdown/00-Understanding-London.md` point at `assets/img/`, so upload the
-whole folder together.
+The HTML edition uses local assets; the Markdown home page currently references an external Unsplash image.
 
 `markdown/` 目录是同样内容的英文 Markdown，每页一个文件并带 front matter，可用于重新导入
 GitBook 等文档平台。
