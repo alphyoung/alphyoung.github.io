@@ -10,7 +10,7 @@ The two unities of the Middle Ages broke in this stage at once: the shared faith
 
 ## 3.1 Renaissance and humanism
 
-*14th — 16th century*
+_14th — 16th century_
 
 The change had already been brewing in Italy. Wealthy **city-republics** — Florence, Venice, Milan — patronized artists and scholars, the Medici being the most famous of the patrons. Scholars collected and collated Greek and Roman texts afresh, producing **humanism**: a shift of attention from theological speculation toward human dignity, cultivation and public life.
 
@@ -22,7 +22,7 @@ And while the Renaissance turned European eyes from the next world to this one, 
 
 ## 3.2 Oceanic voyages and colonial empires
 
-*1415 — 1600*
+_1415 — 1600_
 
 The Ottomans took **Constantinople** in 1453 and thereafter controlled the trade routes between the eastern Mediterranean and Eurasia for a long time. Western merchants therefore turned increasingly to the sea — though to attribute overseas expansion entirely to "the blocked trade route" is a simplification: Portuguese voyages had begun as early as 1415. Portugal pushed south along the African coast, rounded the Cape of Good Hope and entered the Indian Ocean; Spain ventured westward — and **in 1492 Columbus reached the Americas**.
 
@@ -36,11 +36,11 @@ The deeper consequence of the voyages was a shift in economic gravity: the Medit
 
 ## 3.3 The Reformation: the fracture of a single faith
 
-*1517 — 1555*
+_1517 — 1555_
 
 **In 1517 Martin Luther issued the Ninety-five Theses**, questioning indulgences and church authority and asserting justification by faith alone. The Bible was translated into German, and ordinary people could read it for themselves. Calvin built another reforming tradition in Geneva, while Henry VIII of England broke away over his marriage annulment and founded the Church of England. The religious unity Western Europe had kept for a thousand years was broken.
 
-The **Peace of Augsburg of 1555** established *cuius regio, eius religio* — whose realm, his religion. But this brought no freedom of individual conscience and left Calvinism out; grievances kept accumulating, and half a century later they erupted in a far larger war.
+The **Peace of Augsburg of 1555** established _cuius regio, eius religio_ — whose realm, his religion. But this brought no freedom of individual conscience and left Calvinism out; grievances kept accumulating, and half a century later they erupted in a far larger war.
 
 {% hint style="info" %}
 **The Reformation was not only a dispute over belief.** It was also a political and social conflict: princes used reform to escape the taxation and jurisdiction of Church and emperor, printing amplified the argument, and the German Peasants' War of 1524–1525 carried it to the bottom of society. Faith, power and interest were tangled together.
@@ -48,7 +48,7 @@ The **Peace of Augsburg of 1555** established *cuius regio, eius religio* — wh
 
 ## 3.4 The Thirty Years' War and the Westphalian system
 
-*1618 — 1648*
+_1618 — 1648_
 
 The **Thirty Years' War of 1618–1648** was the general eruption of religious and dynastic conflict: beginning with a rebellion in Bohemia, it drew in Spain, Denmark, Sweden and France by stages, reduced much of central Europe to ruins, and cost the German lands especially dearly in population.
 
