@@ -6,6 +6,7 @@ All maintained documentation is stored under `understanding/`.
 
 - GitHub Pages root: https://alphyoung.github.io/
 - Europe: https://alphyoung.github.io/understanding/europe/
+- Germany (English): https://alphyoung.github.io/understanding/germany/
 - London: https://alphyoung.github.io/understanding/london/
 - GitBook site configuration: `understanding/gitbook-docs.yaml`
 
