@@ -16,4 +16,4 @@ description: 国家、城市与技术的读懂系列总目录。
 
 ## 读懂技术
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>读懂AI</strong></td><td>从符号主义到智能体，梳理人工智能的技术演进。</td><td><a href="https://tour-1.gitbook.io/understanding/ai-history/">https://tour-1.gitbook.io/understanding/ai-history/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>读懂AI历史</strong></td><td>从符号主义到智能体，梳理人工智能的技术演进。</td><td><a href="https://tour-1.gitbook.io/understanding/ai-history/">https://tour-1.gitbook.io/understanding/ai-history/</a></td></tr></tbody></table>
