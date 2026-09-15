@@ -154,7 +154,6 @@ site:
       key: sitesc_L17Hc
       title: 读懂AI
       path: ai-history
-      default: true
       children:
         - type: space
           key: sitesp_wCzDk
