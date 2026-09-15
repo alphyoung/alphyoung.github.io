@@ -167,7 +167,7 @@ site:
       children:
         - type: section
           key: sitesc_L17Hc
-          title: 读懂AI
+          title: 读懂AI历史
           path: ai-history
           children:
             - type: space
