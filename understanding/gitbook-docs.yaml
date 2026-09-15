@@ -14,7 +14,8 @@ site:
           path: du-dong-xi-lie
           default: true
           content:
-            directory: ./cities/markdown    - type: section
+            directory: ./cities/markdown
+    - type: section
       key: sitesc_TfhnS
       title: Understanding Europe
       path: understanding-europe
