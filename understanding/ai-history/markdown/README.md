@@ -1,6 +1,4 @@
-# 封面与摘要
-
-## 从符号主义到智能体的技术演进综述
+# 从符号主义到智能体的技术演进综述
 
 _Seventy Years of Artificial Intelligence: A Technical Review from Symbolism to Agentic Systems_
 
