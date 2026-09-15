@@ -1,6 +1,6 @@
 # Table of contents
 
-* [读懂朝阳](README.md)
+* [简读朝阳](README.md)
 * [第一篇　朝阳之前：一亿年的生命与五千年的文明](di-yi-pian-chao-yang-zhi-qian-yi-yi-nian-de-sheng-ming-yu-wu-qian-nian-de-wen-ming.md)
 * [第二篇　柳城时代：从燕汉边疆到曹操破乌桓](di-er-pian-liu-cheng-shi-dai-cong-yan-han-bian-jiang-dao-cao-cao-po-wu-huan.md)
 * [第三篇　龙城时代：三燕都城与族群交往](di-san-pian-long-cheng-shi-dai-san-yan-du-cheng-yu-zu-qun-jiao-wang.md)

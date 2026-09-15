@@ -2,7 +2,7 @@
 description: 从大凌河出发，读懂朝阳的历史与遗址。
 ---
 
-# 读懂朝阳
+# 简读朝阳
 
 <figure><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Northern_Chaoyang_Pagoda_04_2015-09.JPG" alt="朝阳北塔" width="420"><figcaption><p>朝阳北塔 · 摄影：<a href="https://commons.wikimedia.org/wiki/File:Northern_Chaoyang_Pagoda_04_2015-09.JPG">猫猫的日记本</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p></figcaption></figure>
 

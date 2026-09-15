@@ -137,13 +137,13 @@ site:
                 directory: ./liangcheng/markdown
         - type: section
           key: sitesc_CkHKU
-          title: 读懂朝阳
+          title: 简读朝阳
           path: chaoyang
           children:
             - type: space
               key: sitesp_ChUnm
-              title: 读懂朝阳
-              path: du-dong-chao-yang
+              title: 简读朝阳
+              path: jian-du-chao-yang
               default: true
               content:
                 directory: ./chaoyang/markdown
