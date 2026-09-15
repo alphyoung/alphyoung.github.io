@@ -6,6 +6,7 @@ site:
       key: sitesc_TfhnS
       title: Understanding Europe
       path: understanding-europe
+      description: ""
       children:
         - type: space
           key: sitesp_3e2y4
