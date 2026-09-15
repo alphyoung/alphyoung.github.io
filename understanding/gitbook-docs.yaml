@@ -4,8 +4,9 @@ site:
   structure:
     - type: section
       key: sitesc_iPlwg
-      title: 总目录
+      title: 首页
       path: home
+      description: ""
       default: true
       children:
         - type: space
@@ -15,7 +16,6 @@ site:
           default: true
           content:
             directory: ./home/markdown
-
     - type: section-group
       key: sitegrp_countries
       title: 读懂国家
@@ -58,7 +58,6 @@ site:
               default: true
               content:
                 directory: ./germany/markdown
-                language: en
         - type: section
           key: sitesc_w7x9d
           title: 读懂德国
@@ -71,7 +70,6 @@ site:
               default: true
               content:
                 directory: ./germany/chinese/markdown
-
     - type: section-group
       key: sitegrp_cities
       title: 读懂城市
@@ -161,7 +159,6 @@ site:
               default: true
               content:
                 directory: ./chaoyang-history/markdown
-
     - type: section-group
       key: sitegrp_cultures
       title: 读懂文化
@@ -178,7 +175,6 @@ site:
               default: true
               content:
                 directory: ./zangchuanfojiao/markdown
-
     - type: section-group
       key: sitegrp_technology
       title: 读懂技术
