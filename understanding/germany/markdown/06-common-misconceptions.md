@@ -8,7 +8,7 @@ Not exactly. The empire centred on German lands but also included the Kingdom of
 
 ## Did Habsburg rule make Spain German territory?
 
-No. Dynastic possessions and “Germany” were different things: one family could rule several states. Charles V held Spain, the Netherlands, Austria and other lands, but they never merged into one unified state. Spain and its American colonies did not become German territory, nor did Habsburg rule bring Hungary into the empire.
+No. Dynastic possessions and “Germany” were different things: one family could rule several states. Charles V inherited several territories at different dates, and Ferdinand took over the Austrian hereditary lands in 1521–1522. These lands did not merge into one unified state. Spain and its American colonies did not become German territory, nor did Habsburg rule bring Hungary into the empire.
 
 ## Did a royal marriage merge two countries?
 
@@ -36,8 +36,23 @@ The event was an imperial proclamation (*Kaiserproklamation*), not a medieval co
 
 ## Were “First”, “Second” and “Third Empire” official state names?
 
-“First Empire” (962–1806) is a retrospective label. “Second Empire” refers to the German Empire of 1871–1918. “Third Reich” was a Nazi propaganda term: the regime restored neither an emperor nor dynastic rule. These labels do not establish an uninterrupted succession of three equivalent imperial systems.
+“First Empire” (962–1806) is a retrospective label. “Second Empire” refers to the German Empire of 1871–1918. “Third Reich” was a Nazi propaganda term: the regime restored neither an emperor nor dynastic rule. These labels do not establish an uninterrupted succession of three equivalent imperial systems. However, the transition from imperial monarchy to Weimar democracy and then Nazi dictatorship involved changes of regime within the German Reich, not three wholly unrelated states. “No institutional continuity at all” would also be misleading.
 
 ## Did reunification restore the old empire's territory?
 
-No. Reunification brought East Germany's five re-established states into the Federal Republic. The Two Plus Four settlement and the German-Polish Border Treaty confirmed the final border along the Oder-Neisse line. Neither the borders of 1871 nor those of 1937 were restored.
+No. The GDR acceded to the Federal Republic on 3 October 1990; five eastern Länder were re-established and Berlin was united. The Two Plus Four Treaty was signed in September 1990 and took effect in March 1991; the German-Polish Border Treaty was signed in November 1990 and took effect in January 1992. The existing Oder-Neisse boundary was confirmed, without restoring the borders of 1871 or 1937.
+
+
+## Did the Peace of Westphalia create modern nation-state sovereignty in one step?
+
+No. It preserved the empire, confirmed and qualified territorial rights, and regulated religious coexistence. Its several treaties must be distinguished. The imperial princes did not simply become completely unrestricted sovereign nation states.
+
+## Did the fall of the Berlin Wall mean reunification?
+
+No. Border crossings opened on 9 November 1989. Elections, negotiations and separate domestic and international treaties followed before accession on 3 October 1990. Some treaty provisions completed their legal entry into force only in 1991–1992.
+
+## Is every traditional date equally certain?
+
+No. Clovis's baptism is disputed; the start of the Great Interregnum varies by convention; 962 is a conventional period boundary. These differ from clearly documented signatures or votes. A date range or an explicit qualification is more accurate than invented precision.
+
+See the [chronology](09-chronology.md) and the references in the corresponding main chapters.

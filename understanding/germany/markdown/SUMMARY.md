@@ -8,3 +8,5 @@
 * [05 Stage 5 Division, Reconstruction and Reunification](05-stage-5-division-and-reunification.md)
 * [06 Common Misconceptions](06-common-misconceptions.md)
 * [07 Appendix Territorial Overview and Sources](07-appendix-territory-and-sources.md)
+* [08 Appendix Dynasties, States and Royal Connections](08-dynasties-and-states.md)
+* [09 Appendix Chronology and Date Relationships](09-chronology.md)

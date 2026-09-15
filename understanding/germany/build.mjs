@@ -7,11 +7,12 @@ import { parse } from 'yaml';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const check = process.argv.includes('--check');
-const read = path => readFileSync(resolve(root, path), 'utf8');
+const read = path => readFileSync(resolve(root, path), 'utf8').replaceAll('\r\n', '\n');
 const escape = text => text.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 const chapters = [...read('markdown/SUMMARY.md').matchAll(/^\* \[([^\]]+)\]\(([^)]+\.md)\)$/gm)]
   .map(([, title, source]) => ({ title, source, target: source.replace(/\.md$/, '.html') }));
-assert.equal(chapters.length, 8, 'Expected the introduction and seven chapters');
+assert(chapters.length > 0, 'The chapter summary must not be empty');
+assert.equal(new Set(chapters.map(chapter => chapter.source)).size, chapters.length, 'Duplicate chapter in summary');
 const outputs = new Map();
 
 function render(source) {
@@ -71,5 +72,14 @@ for (const folder of ['markdown', 'chinese/markdown']) {
   const listed = [...summary.matchAll(/\]\(([^)]+\.md)\)/g)].map(match => match[1]);
   const files = readdirSync(resolve(root, folder)).filter(file => file.endsWith('.md') && file !== 'SUMMARY.md');
   assert.deepEqual([...listed].sort(), files.sort(), `Chapter coverage mismatch in ${folder}`);
+  for (const file of files) {
+    const source = read(`${folder}/${file}`);
+    render(source); // Validate GitBook tag balance in both editions.
+    assert(!source.includes('\uFFFD'), `Invalid Unicode in ${folder}/${file}`);
+    for (const [, target] of source.matchAll(/\]\(([^)\s]+\.md)(?:#[^)]*)?\)/g)) {
+      if (/^https?:/.test(target)) continue;
+      assert(existsSync(resolve(root, folder, target)), `Broken Markdown link in ${folder}/${file}: ${target}`);
+    }
+  }
 }
-console.log(`${check ? 'Verified' : 'Built'} ${outputs.size} files; 8 chapters, local links and GitBook directories checked.`);
+console.log(`${check ? 'Verified' : 'Built'} ${outputs.size} files; ${chapters.length} chapters, local links and GitBook directories checked.`);

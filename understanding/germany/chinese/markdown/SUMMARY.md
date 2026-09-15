@@ -8,3 +8,5 @@
 * [05 阶段五·分裂、重建与重新统一](05-jie-duan-wu-fen-lie-chong-jian-yu-chong-xin-tong-yi.md)
 * [06 常见误解澄清](06-chang-jian-wu-jie-cheng-qing.md)
 * [07 附录：疆域总览与资料](07-fu-lu-jiang-yu-zong-lan-yu-zi-liao.md)
+* [08 附录：王朝、邦国与跨国王室联系](08-wang-chao-yu-bang-guo.md)
+* [09 附录：时间线与日期关系](09-shi-jian-guan-xi.md)
