@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Understanding London
+  structure:
+    - type: space
+      key: london-en
+      title: London_EN
+      path: untitled
+      default: true
+      content:
+        directory: ./
+        language: en
