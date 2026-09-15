@@ -58,18 +58,6 @@ site:
               default: true
               content:
                 directory: ./germany/markdown
-        - type: section
-          key: sitesc_InNfA
-          title: 读懂藏传佛教
-          path: zangchuanfojiao
-          children:
-            - type: space
-              key: sitesp_Lg4hC
-              title: 读懂藏传佛教
-              path: cang-chuan-fo-jiao
-              default: true
-              content:
-                directory: ./zangchuanfojiao/markdown
 
     - type: section-group
       key: sitegrp_cities
@@ -162,6 +150,23 @@ site:
                 directory: ./chaoyang-history/markdown
 
     - type: section-group
+      key: sitegrp_cultures
+      title: 读懂文化
+      children:
+        - type: section
+          key: sitesc_InNfA
+          title: 读懂藏传佛教
+          path: zangchuanfojiao
+          children:
+            - type: space
+              key: sitesp_Lg4hC
+              title: 读懂藏传佛教
+              path: cang-chuan-fo-jiao
+              default: true
+              content:
+                directory: ./zangchuanfojiao/markdown
+
+    - type: section-group
       key: sitegrp_technology
       title: 读懂技术
       children:
@@ -172,7 +177,7 @@ site:
           children:
             - type: space
               key: sitesp_wCzDk
-              title: 读懂AI
+              title: 读懂AI历史
               path: ai-history
               default: true
               content:
