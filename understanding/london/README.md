@@ -43,7 +43,6 @@ london-en-pages/
 │   ├── main.js                # reading-progress bar only
 │   └── img/
 │       ├── hero-thames.jpg    # Tower Bridge / Thames — Benjamin Davies, Unsplash
-│       └── sponsor-qr.png     # sponsorship QR code
 ├── markdown/                  # the same text as GitBook-ready Markdown
 ├── .nojekyll                  # tell GitHub Pages not to run Jekyll
 └── README.md

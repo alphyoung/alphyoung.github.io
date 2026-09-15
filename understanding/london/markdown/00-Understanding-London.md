@@ -33,7 +33,3 @@ This volume uses eight chapters of narrative history to link the centuries — f
 * **Chapter VI · Civil War, Fire and Finance** — Seventeenth-century London rebuilt three times (1642 – 1694)
 * **Chapter VII · The Victorian Era** — How an industrial metropolis worked (1837 – 1901)
 * **Chapter VIII · War, Migration and Modern London** — An imperial capital becomes a world city (1940 – 1965)
-
-## Support the Understanding Series
-
-If this page was useful to you, you can support it with ¥1. Thank you for supporting the research and writing of urban history.
