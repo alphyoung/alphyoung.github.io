@@ -3,6 +3,56 @@ site:
   title: understanding
   structure:
     - type: section
+      key: sitesc_TfhnS
+      title: Understanding Europe
+      path: understanding-europe
+      children:
+        - type: space
+          key: sitesp_3e2y4
+          title: Understanding Europe
+          path: europe_en
+          default: true
+          content:
+            directory: ./europe/markdown
+            language: en
+    - type: section
+      key: sitesc_LdnEN
+      title: Understanding London
+      path: understanding-london
+      children:
+        - type: space
+          key: sitesp_LdnEN
+          title: Understanding London
+          path: london_en
+          default: true
+          content:
+            directory: ./london/markdown
+            language: en
+    - type: section
+      key: sitesc_UCQZN
+      title: 读懂欧洲
+      path: europe
+      children:
+        - type: space
+          key: sitesp_uRm5b
+          title: 读懂欧洲
+          path: du-dong-ou-zhou
+          default: true
+          content:
+            directory: ./europe/du-dong-ou-zhou
+    - type: section
+      key: sitesc_6o2dB
+      title: 读懂伦敦
+      path: london
+      children:
+        - type: space
+          key: sitesp_YT0mv
+          title: 读懂伦敦
+          path: du-dong-lun-dun
+          default: true
+          content:
+            directory: ./london/du-dong-lun-dun
+    - type: section
       key: sitesc_w7x9d
       title: 读懂德国
       path: germany
@@ -15,18 +65,53 @@ site:
           content:
             directory: ./germany/du-dong-de-guo
     - type: section
-      key: sitesc_L17Hc
-      title: 读懂AI
-      path: ai-history
-      default: true
+      key: sitesc_YgCDO
+      title: 读懂拉萨
+      path: lhasa
       children:
         - type: space
-          key: sitesp_wCzDk
-          title: 读懂AI
-          path: ai-history
+          key: sitesp_UMqIe
+          title: 读懂拉萨
+          path: du-dong-la-sa
           default: true
           content:
-            directory: ./ai-history
+            directory: ./lhasa/du-dong-la-sa
+    - type: section
+      key: sitesc_kitzS
+      title: 读懂青城
+      path: hohhot
+      children:
+        - type: space
+          key: sitesp_kFC0L
+          title: 读懂青城
+          path: du-dong-qing-cheng
+          default: true
+          content:
+            directory: ./hohhot/du-dong-qing-cheng
+    - type: section
+      key: sitesc_uW08A
+      title: 读懂凉城
+      path: liangcheng
+      children:
+        - type: space
+          key: sitesp_TdbxL
+          title: 读懂凉城
+          path: du-dong-liang-cheng
+          default: true
+          content:
+            directory: ./liangcheng/du-dong-liang-cheng
+    - type: section
+      key: sitesc_CkHKU
+      title: 读懂朝阳
+      path: chaoyang
+      children:
+        - type: space
+          key: sitesp_ChUnm
+          title: 读懂朝阳
+          path: du-dong-chao-yang
+          default: true
+          content:
+            directory: ./chaoyang/du-dong-chao-yang
     - type: section
       key: sitesc_38aWR
       title: 读懂朝阳历史
@@ -52,100 +137,15 @@ site:
           content:
             directory: ./zangchuanfojiao/cang-chuan-fo-jiao
     - type: section
-      key: sitesc_TfhnS
-      title: Understanding Europe
-      path: understanding-europe
+      key: sitesc_L17Hc
+      title: 读懂AI
+      path: ai-history
+      default: true
       children:
         - type: space
-          key: sitesp_3e2y4
-          title: Understanding Europe
-          path: europe_en
+          key: sitesp_wCzDk
+          title: 读懂AI
+          path: ai-history
           default: true
           content:
-            directory: ./europe/markdown
-            language: en
-    - type: section
-      key: sitesc_uW08A
-      title: 读懂凉城
-      path: liangcheng
-      children:
-        - type: space
-          key: sitesp_TdbxL
-          title: 读懂凉城
-          path: du-dong-liang-cheng
-          default: true
-          content:
-            directory: ./liangcheng/du-dong-liang-cheng
-    - type: section
-      key: sitesc_UCQZN
-      title: 读懂欧洲
-      path: europe
-      children:
-        - type: space
-          key: sitesp_uRm5b
-          title: 读懂欧洲
-          path: du-dong-ou-zhou
-          default: true
-          content:
-            directory: ./europe/du-dong-ou-zhou
-    - type: section
-      key: sitesc_YgCDO
-      title: 读懂拉萨
-      path: lhasa
-      children:
-        - type: space
-          key: sitesp_UMqIe
-          title: 读懂拉萨
-          path: du-dong-la-sa
-          default: true
-          content:
-            directory: ./lhasa/du-dong-la-sa
-    - type: section
-      key: sitesc_6o2dB
-      title: 读懂伦敦
-      path: london
-      children:
-        - type: space
-          key: sitesp_YT0mv
-          title: 读懂伦敦
-          path: du-dong-lun-dun
-          default: true
-          content:
-            directory: ./london/du-dong-lun-dun
-    - type: section
-      key: sitesc_kitzS
-      title: 读懂青城
-      path: hohhot
-      children:
-        - type: space
-          key: sitesp_kFC0L
-          title: 读懂青城
-          path: du-dong-qing-cheng
-          default: true
-          content:
-            directory: ./hohhot/du-dong-qing-cheng
-    - type: section
-      key: sitesc_CkHKU
-      title: 读懂朝阳
-      path: chaoyang
-      children:
-        - type: space
-          key: sitesp_ChUnm
-          title: 读懂朝阳
-          path: du-dong-chao-yang
-          default: true
-          content:
-            directory: ./chaoyang/du-dong-chao-yang
-    - type: section
-      key: sitesc_LdnEN
-      title: Understanding London
-      path: understanding-london
-      children:
-        - type: space
-          key: sitesp_LdnEN
-          title: Understanding London
-          path: london_en
-          default: true
-          content:
-            directory: ./london/markdown
-            language: en
+            directory: ./ai-history
