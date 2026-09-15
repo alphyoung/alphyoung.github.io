@@ -14,7 +14,7 @@ site:
           path: du-dong-de-guo
           default: true
           content:
-            directory: null
+            directory: germany/du-dong-de-guo
     - type: section
       key: sitesc_iPlwg
       title: "总目录"
@@ -27,7 +27,7 @@ site:
           path: du-dong-xi-lie
           default: true
           content:
-            directory: null
+            directory: cities/du-dong-xi-lie
     - type: section
       key: sitesc_L17Hc
       title: "读懂AI"
@@ -39,7 +39,7 @@ site:
           path: ai-history
           default: true
           content:
-            directory: null
+            directory: ai-history
     - type: section
       key: sitesc_38aWR
       title: "读懂朝阳历史"
@@ -51,7 +51,7 @@ site:
           path: chao-yang-li-shi
           default: true
           content:
-            directory: null
+            directory: chaoyang-history/chao-yang-li-shi
     - type: section
       key: sitesc_InNfA
       title: "读懂藏传佛教"
@@ -63,7 +63,7 @@ site:
           path: cang-chuan-fo-jiao
           default: true
           content:
-            directory: null
+            directory: zangchuanfojiao/cang-chuan-fo-jiao
     - type: section
       key: sitesc_TfhnS
       title: "Understanding Europe"
@@ -75,7 +75,7 @@ site:
           path: europe_en
           default: true
           content:
-            directory: /understanding/europe/markdown
+            directory: europe/markdown
             language: en
     - type: section
       key: sitesc_uW08A
@@ -88,7 +88,7 @@ site:
           path: du-dong-liang-cheng
           default: true
           content:
-            directory: null
+            directory: liangcheng/du-dong-liang-cheng
     - type: section
       key: sitesc_UCQZN
       title: "读懂欧洲"
@@ -100,7 +100,7 @@ site:
           path: du-dong-ou-zhou
           default: true
           content:
-            directory: null
+            directory: europe/du-dong-ou-zhou
     - type: section
       key: sitesc_YgCDO
       title: "读懂拉萨"
@@ -112,7 +112,7 @@ site:
           path: du-dong-la-sa
           default: true
           content:
-            directory: null
+            directory: lhasa/du-dong-la-sa
     - type: section
       key: sitesc_6o2dB
       title: "读懂伦敦"
@@ -124,7 +124,7 @@ site:
           path: du-dong-lun-dun
           default: true
           content:
-            directory: null
+            directory: london/du-dong-lun-dun
     - type: section
       key: sitesc_kitzS
       title: "读懂青城"
@@ -136,7 +136,7 @@ site:
           path: du-dong-qing-cheng
           default: true
           content:
-            directory: null
+            directory: hohhot/du-dong-qing-cheng
     - type: section
       key: sitesc_CkHKU
       title: "读懂朝阳"
@@ -148,4 +148,4 @@ site:
           path: du-dong-chao-yang
           default: true
           content:
-            directory: null
+            directory: chaoyang/du-dong-chao-yang
