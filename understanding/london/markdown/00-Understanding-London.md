@@ -11,7 +11,7 @@ Dynasties, religion, city and people along the Thames
 
 From Iron Age Britons, Roman Londinium and the Anglo-Saxon heptarchy, to the Norman Conquest, the Tudor Reformation, the Renaissance, oceanic trade and the modern plural city — follow the Thames to understand London, and its relationship with Britain and the world.
 
-*Reading edition · September 2026*
+_Reading edition · September 2026_
 
 ![The Thames and Tower Bridge. Photograph: Benjamin Davies / Unsplash](https://images.unsplash.com/photo-1605472074208-bd462911d2a1)
 
@@ -25,17 +25,15 @@ This volume uses eight chapters of narrative history to link the centuries — f
 
 ## The eight chapters
 
-- **Chapter I · River and Rome** — Where London begins (AD 43 – 5th century)
-- **Chapter II · Heptarchy and Middle Ages** — From Lundenwic to the Tower of London (5th – 15th century)
-- **Chapter III · The Tudor Reformation** — Marriage, church and Puritans (1509 – 1603)
-- **Chapter IV · Renaissance London** — Print, humanism and the theatre (1476 – 1600s)
-- **Chapter V · The Age of Sail** — Merchantmen, privateers and the beginnings of empire (1497 – 1600s)
-- **Chapter VI · Civil War, Fire and Finance** — Seventeenth-century London rebuilt three times (1642 – 1694)
-- **Chapter VII · The Victorian Era** — How an industrial metropolis worked (1837 – 1901)
-- **Chapter VIII · War, Migration and Modern London** — An imperial capital becomes a world city (1940 – 1965)
+* **Chapter I · River and Rome** — Where London begins (AD 43 – 5th century)
+* **Chapter II · Heptarchy and Middle Ages** — From Lundenwic to the Tower of London (5th – 15th century)
+* **Chapter III · The Tudor Reformation** — Marriage, church and Puritans (1509 – 1603)
+* **Chapter IV · Renaissance London** — Print, humanism and the theatre (1476 – 1600s)
+* **Chapter V · The Age of Sail** — Merchantmen, privateers and the beginnings of empire (1497 – 1600s)
+* **Chapter VI · Civil War, Fire and Finance** — Seventeenth-century London rebuilt three times (1642 – 1694)
+* **Chapter VII · The Victorian Era** — How an industrial metropolis worked (1837 – 1901)
+* **Chapter VIII · War, Migration and Modern London** — An imperial capital becomes a world city (1940 – 1965)
 
 ## Support the Understanding Series
 
 If this page was useful to you, you can support it with ¥1. Thank you for supporting the research and writing of urban history.
-
-![Sponsorship QR code for the Understanding Series](assets/img/sponsor-qr.png)
