@@ -5,7 +5,7 @@ site:
     - type: section
       key: sitesc_iPlwg
       title: 总目录
-      path: cities
+      path: home
       default: true
       children:
         - type: space
@@ -14,7 +14,7 @@ site:
           path: du-dong-xi-lie
           default: true
           content:
-            directory: ./cities/markdown
+            directory: ./home/markdown
 
     - type: section-group
       key: sitegrp_countries
