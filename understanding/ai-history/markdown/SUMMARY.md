@@ -1,6 +1,6 @@
 # Table of contents
 
-* [封面与摘要](README.md)
+* [从符号主义到智能体的技术演进综述](README.md)
 * [1 引言](01-introduction.md)
 * [2 技术演进主线（1936—2026）](02-evolution/README.md)
   * [2.1 奠基期（1936—1955）](02-evolution/01-foundations.md)
