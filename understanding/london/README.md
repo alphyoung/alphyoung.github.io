@@ -60,7 +60,7 @@ This book shares the alphyoung/alphyoung.github.io repository and main-branch Pa
 
 与 Europe 共用同一仓库及 GitHub Pages 发布流程，正式维护目录为 understanding/london/。
 
-See the repository README for the shared update and verification procedure. Keep the HTML and Markdown editions in sync when editing text. Preserve chapter navigation, image credits and sponsorship assets.
+See the repository README for the shared update and verification procedure. Keep the HTML and Markdown editions in sync when editing text. Preserve chapter navigation and image credits.
 
 The nested 404.html is a standalone page; GitHub Pages does not automatically use it as this folder's error handler.
 
@@ -111,7 +111,6 @@ horizontally rather than compressing their columns. A gold progress bar tracks r
   used under the [Unsplash License](https://unsplash.com/license). Attribution appears in the
   hero figure caption and in the site footer.
 - **Tables and timeline** — original to this edition.
-- **Sponsorship QR code** — the author's own QR image, carried over from the Chinese edition.
 
 All external source links are preserved from the original edition (Museum of London, Historic
 Royal Palaces, UK Parliament, Royal Museums Greenwich, Bank of England, Historic England,
