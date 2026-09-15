@@ -1,6 +1,6 @@
 # Table of contents
 
-* [00 读懂朝阳](README.md)
+* [00 读懂朝阳历史](README.md)
 * [01 序·河谷地理](01-xu-he-gu-di-li.md)
 * [02 阶段一·朝阳之前](02-jie-duan-yi-chao-yang-zhi-qian.md)
 * [03 阶段二·柳城时代](03-jie-duan-er-liu-cheng-shi-dai.md)
