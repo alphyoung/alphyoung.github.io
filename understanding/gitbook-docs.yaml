@@ -1,164 +1,151 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-version: 1
 site:
   title: understanding
   structure:
     - type: section
       key: sitesc_w7x9d
-      title: "读懂德国"
+      title: 读懂德国
       path: germany
       children:
         - type: space
           key: sitesp_mxdAT
-          title: "读懂德国"
+          title: 读懂德国
           path: du-dong-de-guo
           default: true
           content:
-            directory: germany/du-dong-de-guo
+            directory: ./germany/du-dong-de-guo
     - type: section
-      key: sitesc_iPlwg
-      title: "总目录"
-      path: cities
+      key: sitesc_L17Hc
+      title: 读懂AI
+      path: ai-history
       default: true
       children:
         - type: space
-          key: sitesp_mxJ9g
-          title: "总目录"
-          path: du-dong-xi-lie
-          default: true
-          content:
-            directory: cities/du-dong-xi-lie
-    - type: section
-      key: sitesc_L17Hc
-      title: "读懂AI"
-      path: ai-history
-      children:
-        - type: space
           key: sitesp_wCzDk
-          title: "读懂AI"
+          title: 读懂AI
           path: ai-history
           default: true
           content:
-            directory: ai-history
+            directory: ./ai-history
     - type: section
       key: sitesc_38aWR
-      title: "读懂朝阳历史"
+      title: 读懂朝阳历史
       path: chaoyang-history
       children:
         - type: space
           key: sitesp_iGkYE
-          title: "读懂朝阳历史"
+          title: 读懂朝阳历史
           path: chao-yang-li-shi
           default: true
           content:
-            directory: chaoyang-history/chao-yang-li-shi
+            directory: ./chaoyang-history/chao-yang-li-shi
     - type: section
       key: sitesc_InNfA
-      title: "读懂藏传佛教"
+      title: 读懂藏传佛教
       path: zangchuanfojiao
       children:
         - type: space
           key: sitesp_Lg4hC
-          title: "读懂藏传佛教"
+          title: 读懂藏传佛教
           path: cang-chuan-fo-jiao
           default: true
           content:
-            directory: zangchuanfojiao/cang-chuan-fo-jiao
+            directory: ./zangchuanfojiao/cang-chuan-fo-jiao
     - type: section
       key: sitesc_TfhnS
-      title: "Understanding Europe"
+      title: Understanding Europe
       path: understanding-europe
       children:
         - type: space
           key: sitesp_3e2y4
-          title: "Understanding Europe"
+          title: Understanding Europe
           path: europe_en
           default: true
           content:
-            directory: europe/markdown
+            directory: ./europe/markdown
             language: en
     - type: section
       key: sitesc_uW08A
-      title: "读懂凉城"
+      title: 读懂凉城
       path: liangcheng
       children:
         - type: space
           key: sitesp_TdbxL
-          title: "读懂凉城"
+          title: 读懂凉城
           path: du-dong-liang-cheng
           default: true
           content:
-            directory: liangcheng/du-dong-liang-cheng
+            directory: ./liangcheng/du-dong-liang-cheng
     - type: section
       key: sitesc_UCQZN
-      title: "读懂欧洲"
+      title: 读懂欧洲
       path: europe
       children:
         - type: space
           key: sitesp_uRm5b
-          title: "读懂欧洲"
+          title: 读懂欧洲
           path: du-dong-ou-zhou
           default: true
           content:
-            directory: europe/du-dong-ou-zhou
+            directory: ./europe/du-dong-ou-zhou
     - type: section
       key: sitesc_YgCDO
-      title: "读懂拉萨"
+      title: 读懂拉萨
       path: lhasa
       children:
         - type: space
           key: sitesp_UMqIe
-          title: "读懂拉萨"
+          title: 读懂拉萨
           path: du-dong-la-sa
           default: true
           content:
-            directory: lhasa/du-dong-la-sa
+            directory: ./lhasa/du-dong-la-sa
     - type: section
       key: sitesc_6o2dB
-      title: "读懂伦敦"
+      title: 读懂伦敦
       path: london
       children:
         - type: space
           key: sitesp_YT0mv
-          title: "读懂伦敦"
+          title: 读懂伦敦
           path: du-dong-lun-dun
           default: true
           content:
-            directory: london/du-dong-lun-dun
+            directory: ./london/du-dong-lun-dun
     - type: section
       key: sitesc_kitzS
-      title: "读懂青城"
+      title: 读懂青城
       path: hohhot
       children:
         - type: space
           key: sitesp_kFC0L
-          title: "读懂青城"
+          title: 读懂青城
           path: du-dong-qing-cheng
           default: true
           content:
-            directory: hohhot/du-dong-qing-cheng
+            directory: ./hohhot/du-dong-qing-cheng
     - type: section
       key: sitesc_CkHKU
-      title: "读懂朝阳"
+      title: 读懂朝阳
       path: chaoyang
       children:
         - type: space
           key: sitesp_ChUnm
-          title: "读懂朝阳"
+          title: 读懂朝阳
           path: du-dong-chao-yang
           default: true
           content:
-            directory: chaoyang/du-dong-chao-yang
+            directory: ./chaoyang/du-dong-chao-yang
     - type: section
       key: sitesc_LdnEN
-      title: "Understanding London"
+      title: Understanding London
       path: understanding-london
       children:
         - type: space
           key: sitesp_LdnEN
-          title: "Understanding London"
+          title: Understanding London
           path: london_en
           default: true
           content:
-            directory: london/markdown
+            directory: ./london/markdown
             language: en
