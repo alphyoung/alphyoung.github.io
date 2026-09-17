@@ -1,0 +1,13 @@
+{
+  "name": "understanding-germany-pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node build.mjs --check"
+  },
+  "devDependencies": {
+    "marked": "18.0.13",
+    "yaml": "2.9.1"
+  }
+}

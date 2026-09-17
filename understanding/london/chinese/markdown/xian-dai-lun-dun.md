@@ -1,0 +1,35 @@
+# 第八篇　战争、移民与现代伦敦
+
+### 一座帝国首都变成世界都市
+
+#### 1. 空袭进入居民生活
+
+1940—1941年伦敦大轰炸期间，德军反复空袭伦敦，住宅、码头和公共建筑遭到破坏。居民进入防空洞和地铁站，儿童被疏散到外地。战争后期，V-1飞弹和V-2火箭又带来新的袭击。
+
+{% hint style="warning" %}
+**小故事｜守护圣保罗大教堂的人**
+
+空袭期间，教堂人员和志愿消防观察员登上圣保罗大教堂屋顶，及时扑灭燃烧弹。1940年12月大轰炸后，圣保罗圆顶屹立在烟雾中的照片成为著名战时形象。但圆顶幸存不等于周围居民安然无恙，伦敦城大片街区已经被毁。
+{% endhint %}
+
+战后重建不只修复旧建筑，也建设新住宅、道路和文化设施。巴比肯中心所在地区，便是在严重受损的旧街区上重新规划。
+
+#### 2. 移民不断改变“伦敦人”
+
+伦敦一直由迁徙塑造：罗马帝国居民、中世纪欧洲商人、胡格诺派难民、爱尔兰劳动者和东欧犹太移民，都曾建立社区。二战后，来自加勒比、南亚和非洲等地的人进一步改变交通、医疗、饮食、音乐和日常语言。
+
+1948年“帝国疾风号”抵达英国，是战后加勒比移民的重要象征，却不是黑人进入伦敦历史的起点。许多新居民一面参与公共服务，一面遭遇住房、就业和种族歧视，并通过组织社区争取平等权利。
+
+#### 3. 港口业务向下游转移以后
+
+集装箱运输和大型船舶使港口功能逐渐向泰晤士河下游转移，旧港区在二十世纪后半叶经历关闭与失业。后来金丝雀码头兴建办公楼群，金融和服务业取代部分港口劳动。
+
+新投资带来就业和交通，也推高地价并改变社区。旧仓库、港池、公共住宅与玻璃高楼并置，记录着同一片土地在帝国贸易、工业衰退和金融全球化中的不同角色。
+
+#### 4. 大伦敦的形成
+
+1965年，大伦敦新体制运行，范围包括伦敦城和32个伦敦自治市。大伦敦议会（GLC）于1986年被废除。2000年，由民选市长和伦敦议会组成的大伦敦政府（GLA）开始运行，与自治市政府及伦敦城市政法团并存。它的边界是长期扩张与行政改革的结果，不是罗马城自然长大的简单外圈。
+
+资料：[伦敦大轰炸](https://historicengland.org.uk/whats-new/features/blitz-stories/london-the-blitz-september-1940-june-1941/) · [西印度码头](https://www.londonmuseum.org.uk/collections/london-stories/west-india-docks/)
+
+补充核查资料: [伦敦港务局：Our history](https://pla.co.uk/our-history) · [英国下议院图书馆：伦敦地方政府改革](https://researchbriefings.files.parliament.uk/documents/CDP-2018-0217/CDP-2018-0217.pdf) · [英国地方政府部：Local Government Financial Statistics 2014](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/316772/LGFS24_web_edition.pdf) · [英国国家档案馆：Windrush旅客名册](https://www.nationalarchives.gov.uk/education/resources/commonwealth-migration-since-1945/passenger-list-from-windrush/) · [圣保罗大教堂：St Paul’s Watch](https://www.stpauls.co.uk/st-pauls-watch-protect-cathedral)

@@ -1,0 +1,4 @@
+root: ./
+structure:
+  readme: 00-Understanding-London.md
+  summary: SUMMARY.md

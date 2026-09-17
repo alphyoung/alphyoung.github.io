@@ -1,0 +1,4 @@
+root: ./
+structure:
+  readme: 00-understanding-germany.md
+  summary: SUMMARY.md
