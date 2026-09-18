@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="492" viewBox="0 0 1240 492">
+<rect width="1240" height="492" fill="#fdfcf9"/>
+<text x="70.0" y="58.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="30.0" fill="#1a2d5a" text-anchor="start" font-weight="700">城名沿革：从柳城到朝阳</text>
+<text x="70.0" y="86.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#2f3d58" text-anchor="start" font-weight="400">同一个地点在不同时期的通行名称；时间轴按年代等比绘制，城名与行政建置名并不总同步变化。</text>
+<line x1="70" y1="104" x2="1170" y2="104" stroke="#c9a227" stroke-width="2"/>
+<rect x="70.0" y="140" width="267.6" height="110" fill="#cfe1f2" rx="4" ry="4"/>
+<text x="203.8" y="205.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="28.0" fill="#1f3a63" text-anchor="middle" font-weight="700">柳城</text>
+<text x="203.8" y="286.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="17.0" fill="#6b6a66" text-anchor="middle" font-weight="400">汉柳城 · 辽西边郡</text>
+<rect x="337.6" y="140" width="126.7" height="110" fill="#f0dcab"/>
+<text x="400.9" y="190.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="28.0" fill="#7a5c0e" text-anchor="middle" font-weight="700">龙城</text>
+<text x="400.9" y="224.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="20.0" fill="#7a5c0e" text-anchor="middle" font-weight="500">和龙</text>
+<text x="400.9" y="286.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="17.0" fill="#6b6a66" text-anchor="middle" font-weight="400">341 改柳城为龙城</text>
+<rect x="464.3" y="140" width="218.3" height="110" fill="#cfe1f2"/>
+<text x="573.4" y="205.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="28.0" fill="#1f3a63" text-anchor="middle" font-weight="700">柳城</text>
+<text x="573.4" y="286.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="17.0" fill="#6b6a66" text-anchor="middle" font-weight="400">598 改龙城县为柳城</text>
+<rect x="682.6" y="140" width="161.2" height="110" fill="#f0dcab"/>
+<text x="763.2" y="205.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="28.0" fill="#7a5c0e" text-anchor="middle" font-weight="700">兴中府</text>
+<text x="763.2" y="286.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="17.0" fill="#6b6a66" text-anchor="middle" font-weight="400">1041 升为兴中府</text>
+<rect x="843.7" y="140" width="202.1" height="110" fill="#e9e7e1"/>
+<text x="944.8" y="205.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="28.0" fill="#6b6a66" text-anchor="middle" font-weight="700">明—清初</text>
+<text x="944.8" y="286.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="17.0" fill="#6b6a66" text-anchor="middle" font-weight="400">卫所内移，建置不常</text>
+<rect x="1045.8" y="140" width="124.2" height="110" fill="#cfe1f2" rx="4" ry="4"/>
+<text x="1107.9" y="205.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="28.0" fill="#1f3a63" text-anchor="middle" font-weight="700">朝阳</text>
+<text x="1107.9" y="286.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="17.0" fill="#6b6a66" text-anchor="middle" font-weight="400">1778 设朝阳县</text>
+<rect x="70" y="336" width="1100" height="28" fill="#f4f1e9" stroke="#ddd8c9" stroke-width="1" rx="3"/>
+<line x1="70.0" y1="336" x2="70.0" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="174.0" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">汉</text>
+<line x1="278.0" y1="336" x2="278.0" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="327.3" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">三国两晋</text>
+<line x1="376.5" y1="336" x2="376.5" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="416.2" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">南北朝</text>
+<line x1="455.9" y1="336" x2="455.9" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="536.2" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">隋唐</text>
+<line x1="621.0" y1="336" x2="621.0" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="670.0" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">辽</text>
+<line x1="719.1" y1="336" x2="719.1" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="781.4" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">金元</text>
+<line x1="843.7" y1="336" x2="843.7" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="911.8" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">明</text>
+<line x1="979.8" y1="336" x2="979.8" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="1045.8" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">清</text>
+<line x1="1111.8" y1="336" x2="1111.8" y2="364" stroke="#ddd8c9" stroke-width="1"/>
+<text x="1140.9" y="355.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="middle" font-weight="400">今</text>
+<text x="70.0" y="412.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="start" font-weight="400">灰色段表示城名与建置长期不定的时期；明代卫所内移后，此地长期处在长城内外之间。</text>
+<text x="70.0" y="438.0" font-family="'Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15.5" fill="#6b6a66" text-anchor="start" font-weight="400">段下年份为该段城名的起始（或改名）事件，均见正文；本图为示意，未按城址变迁逐一对应。</text>
+</svg>

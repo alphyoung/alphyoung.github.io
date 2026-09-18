@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1180" width="1240" height="1180">
-<rect x="0" y="0" width="1240" height="1180" fill="#fdfcf9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1030" width="1240" height="1030">
+<rect x="0" y="0" width="1240" height="1030" fill="#fdfcf9"/>
 <path d="M 1197.7,747.0 C 1186.7,738.8 1153.8,714.3 1131.8,698.0 C 1109.8,681.7 1087.8,658.3 1065.9,649.0 C 1043.9,639.7 1021.9,633.8 999.9,642.0 C 977.9,650.2 958.2,675.8 934.0,698.0 C 909.8,720.2 883.4,750.5 854.9,775.0 C 826.3,799.5 792.4,821.7 762.6,845.0 C 732.7,868.3 700.6,891.7 675.5,915.0 C 650.5,938.3 622.8,973.3 612.2,985.0 L 1197.0,1002.5 Z" fill="#dbe9f2" stroke="none"/>
 <path d="M 1197.7,747.0 C 1186.7,738.8 1153.8,714.3 1131.8,698.0 C 1109.8,681.7 1087.8,658.3 1065.9,649.0 C 1043.9,639.7 1021.9,633.8 999.9,642.0 C 977.9,650.2 958.2,675.8 934.0,698.0 C 909.8,720.2 883.4,750.5 854.9,775.0 C 826.3,799.5 792.4,821.7 762.6,845.0 C 732.7,868.3 700.6,891.7 675.5,915.0 C 650.5,938.3 622.8,973.3 612.2,985.0" fill="none" stroke="#a6c6da" stroke-width="1.6" opacity="0.9"/>
 <text x="960.4" y="929.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="22.5" fill="#6b9cba" text-anchor="middle" font-weight="500" dominant-baseline="middle" font-style="italic">渤　海</text>
@@ -74,28 +74,4 @@
 <text x="90.0" y="48.0" font-family="'Noto Serif SC','Microsoft YaHei',serif" font-size="36.0" fill="#1a2d5a" text-anchor="start" font-weight="700" dominant-baseline="middle">朝阳与周边地点示意</text>
 <path d="M 90,72 L 262,72" stroke="#c9a227" stroke-width="3"/>
 <text x="90.0" y="90.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="17.2" fill="#95a1b2" text-anchor="start" font-weight="400" dominant-baseline="middle">自绘示意图：位置按经纬度等比投影，未绘行政边界</text>
-<rect x="90" y="1004" width="1107" height="151" rx="10" fill="#ffffff" fill-opacity="0.94" stroke="#e3e7ee" stroke-width="1"/>
-<text x="116.0" y="1044.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="21.0" fill="#1a2d5a" text-anchor="start" font-weight="700" dominant-baseline="middle">同一个地点，五个名字</text>
-<text x="338.0" y="1044.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="17.2" fill="#95a1b2" text-anchor="start" font-weight="400" dominant-baseline="middle">历代行政名称与今朝阳市区的关系</text>
-<path d="M 176,1102.0 L 1120,1102.0" stroke="#dfe4ec" stroke-width="2"/>
-<circle cx="200.7" cy="1102.0" r="5.5" fill="#a8801a" fill-opacity="1.00"/>
-<circle cx="200.7" cy="1102.0" r="2.4" fill="#ffffff" fill-opacity="1.00"/>
-<text x="200.7" y="1070.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="20.2" fill="#2f3d58" text-anchor="middle" font-weight="500" dominant-baseline="middle">柳城</text>
-<text x="200.7" y="1136.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="16.5" fill="#95a1b2" text-anchor="middle" font-weight="400" dominant-baseline="middle">汉魏 · 辽西边城</text>
-<circle cx="422.1" cy="1102.0" r="5.5" fill="#a8801a" fill-opacity="1.00"/>
-<circle cx="422.1" cy="1102.0" r="2.4" fill="#ffffff" fill-opacity="1.00"/>
-<text x="422.1" y="1070.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="20.2" fill="#2f3d58" text-anchor="middle" font-weight="500" dominant-baseline="middle">龙城 · 和龙</text>
-<text x="422.1" y="1136.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="16.5" fill="#95a1b2" text-anchor="middle" font-weight="400" dominant-baseline="middle">341 年 · 三燕都城</text>
-<circle cx="643.5" cy="1102.0" r="5.5" fill="#a8801a" fill-opacity="1.00"/>
-<circle cx="643.5" cy="1102.0" r="2.4" fill="#ffffff" fill-opacity="1.00"/>
-<text x="643.5" y="1070.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="20.2" fill="#2f3d58" text-anchor="middle" font-weight="500" dominant-baseline="middle">营州</text>
-<text x="643.5" y="1136.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="16.5" fill="#95a1b2" text-anchor="middle" font-weight="400" dominant-baseline="middle">444 年 · 北魏置州</text>
-<circle cx="864.9" cy="1102.0" r="5.5" fill="#a8801a" fill-opacity="1.00"/>
-<circle cx="864.9" cy="1102.0" r="2.4" fill="#ffffff" fill-opacity="1.00"/>
-<text x="864.9" y="1070.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="20.2" fill="#2f3d58" text-anchor="middle" font-weight="500" dominant-baseline="middle">兴中府</text>
-<text x="864.9" y="1136.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="16.5" fill="#95a1b2" text-anchor="middle" font-weight="400" dominant-baseline="middle">1041 年 · 辽代升府</text>
-<circle cx="1086.3" cy="1102.0" r="7.0" fill="#1a2d5a" fill-opacity="1.00"/>
-<circle cx="1086.3" cy="1102.0" r="2.4" fill="#ffffff" fill-opacity="1.00"/>
-<text x="1086.3" y="1070.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="21.8" fill="#1a2d5a" text-anchor="middle" font-weight="700" dominant-baseline="middle">朝阳</text>
-<text x="1086.3" y="1136.0" font-family="'Microsoft YaHei','Noto Sans SC','SimHei',sans-serif" font-size="16.5" fill="#95a1b2" text-anchor="middle" font-weight="400" dominant-baseline="middle">1778 年 · 清置朝阳县</text>
 </svg>
